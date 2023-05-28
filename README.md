@@ -15,7 +15,8 @@
 
 ## 6. Stop the program
 
-## CLIENT PROGRAM :
+## PROGRAM :
+### Client
 ```PYTHON 3 
 import socket
 s=socket.socket()
@@ -37,7 +38,7 @@ while True:
 			i+=s
 
 ```
-## SERVER PROGRAM :
+### Server :
 ```PYTHON 3
 import socket
 s=socket.socket()
@@ -48,12 +49,13 @@ while True:
 ```
 
 
-## SERVER OUTPUT :
-![image](https://github.com/Bhargava-123/EX-2/assets/85554376/1979bcb4-550b-4449-9f5a-114f70d1fd0e)
+## OUTPUT :
 
-
-## CLIENT OUTPUT :
+### Client
 ![image](https://github.com/Bhargava-123/EX-2/assets/85554376/acc8fdbe-9079-49a2-8bbd-733fc4f233d4)
+
+### Server
+![image](https://github.com/Bhargava-123/EX-2/assets/85554376/1979bcb4-550b-4449-9f5a-114f70d1fd0e)
 
 
 
