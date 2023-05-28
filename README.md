@@ -1,12 +1,12 @@
 # EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL
 
-# DATE: 13-03-2023
+## DATE: 13-03-2023
 
-# AIM :
+## AIM :
 ## To write a python program to perform sliding window protocol
 
 
-# ALGORITHM :
+## ALGORITHM :
 ## 1. Start the program.
 ## 2. Get the frame size from the user
 ## 3. To create the frame based on the user request.
@@ -15,7 +15,7 @@
 
 ## 6. Stop the program
 
-# CLIENT PROGRAM :
+## CLIENT PROGRAM :
 ```PYTHON 3 
 import socket
 s=socket.socket()
@@ -37,7 +37,7 @@ while True:
 			i+=s
 
 ```
-# SERVER PROGRAM :
+## SERVER PROGRAM :
 ```PYTHON 3
 import socket
 s=socket.socket()
@@ -48,14 +48,18 @@ while True:
 ```
 
 
-# SERVER OUTPUT :
-
-# CLIENT OUTPUT :
-
+## SERVER OUTPUT :
+![image](https://github.com/Bhargava-123/EX-2/assets/85554376/1979bcb4-550b-4449-9f5a-114f70d1fd0e)
 
 
+## CLIENT OUTPUT :
+![image](https://github.com/Bhargava-123/EX-2/assets/85554376/acc8fdbe-9079-49a2-8bbd-733fc4f233d4)
 
-# RESULT :
+
+
+
+
+## RESULT :
 ## Thus, python program to perform stop and wait protocol was successfully executed.
 
 
